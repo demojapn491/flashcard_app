@@ -1,0 +1,8 @@
+{
+  "name": "Small flashcard app",
+  "description": "testing deploying to heroku with docker",
+  "image": "drujensen/crystal:0.20.3",
+  "addons": [
+    "heroku-postgresql"
+  ]
+}

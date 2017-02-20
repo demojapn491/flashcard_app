@@ -1,0 +1,3 @@
+require "./migration"
+
+Migration.up

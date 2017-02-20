@@ -1,0 +1,15 @@
+/doc/
+/libs/
+/lib/
+/.crystal/
+/.shards/
+.env
+/bin/
+/japn491
+shard.lock
+*.swp
+/data/cards.json
+*.diff
+todo
+tmp*
+.gitlab-ci.yml
